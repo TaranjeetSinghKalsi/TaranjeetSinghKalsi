@@ -12,3 +12,36 @@
 - 📖 I studied Cyber Security for an internship under Cisco Netacad and Palo Alto Networks and worked on Packet Tracer. 
 - 📝 Apart from that, I also run a Programming Blog (https://programmingchaska.blogspot.com/) and a fitness blog (https://big-bicep.blogspot.com/).
 - 🎹 I love listening to music and playing musical instruments like Harmonium and Tabla.
+## 🔗 [Download My Resume](https://github.com/TaranjeetSinghKalsi/TaranjeetSinghKalsi/raw/main/Taranjeet%20Resume.pdf)
+ 
+## 🔭 Technology Stack
+**Programming Languages:**
+
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks, Platforms and Libraries:**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Cloud/Hosting:**
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+## 📝 My Blogs:
+🔗 [**👩‍💻 Programming Blog**](https://programmingchaska.blogspot.com/)
+
+  &nbsp; &nbsp; &nbsp; ![Programming Chaska](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+  
+🔗 [**💪 Fitness Blog**](https://big-bicep.blogspot.com/)
+
+  &nbsp; &nbsp; &nbsp; ![Big-Bicep](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+ 
