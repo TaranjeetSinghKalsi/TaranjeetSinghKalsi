@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Taranjeet Singh Kalsi 🙋‍♂️
 
+
 ## 🚀 About Me:
 - 🏫 I am currently pursuing Bachelor’s degree in Computer Science from the Gyan Ganga College of Technology, Jabalpur, India.
 - ⚡️ I have been learning and practicing JAVA since 2015. I have also learned C and C++ along with Data Structure and Algorithms in 2019-2020.
