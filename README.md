@@ -14,7 +14,7 @@
 - 📖 I studied Cyber Security for an internship under Cisco Netacad and Palo Alto Networks and worked on Packet Tracer. 
 - 📝 Apart from that, I also run a Programming Blog (https://programmingchaska.blogspot.com/) and a fitness blog (https://big-bicep.blogspot.com/).
 - 🎹 I love listening to music and playing musical instruments like Harmonium and Tabla.
-## 🔗 [Download My Resume](https://github.com/TaranjeetSinghKalsi/TaranjeetSinghKalsi/raw/main/Taranjeet%20Resume.pdf)
+## 🔗 [Download My Resume](https://github.com/TaranjeetSinghKalsi/TaranjeetSinghKalsi/blob/main/Taranjeet%20Kalsi.pdf)
  
 ## 🔭 Technology Stack
 **Programming Languages:**
