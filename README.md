@@ -4,11 +4,11 @@
 
 
 ## 🚀 About Me:
-- 🏫 I am currently pursuing Bachelor’s degree in Computer Science from the Gyan Ganga College of Technology, Jabalpur, India.
-- ⚡️ I have been learning and practicing JAVA since 2015. I have also learned C and C++ along with Data Structure and Algorithms in 2019-2020.
-- 🔭 I had also made a few apps (like Tic-Tac-Toe game and Current Money Rate) in JAVA using Android Studio in 2020.
+- 🏫 Computer Science Engineering graduate with 8.75 CGPA (first division with Honors) from the Gyan Ganga College of Technology, Jabalpur, India.
+- ⚡️ I have been practicing JAVA since 2015. I have also learned C and C++ along with Data Structure and Algorithms in 2019-2020.
+- 🔭 I had also made a few apps (like Tic-Tac-Toe game and Money Rate) in JAVA using Android Studio in 2020.
 - 👩‍💻 In 2021, I learned HTML, CSS, and JavaScript and made a few Projects and many Mini-Projects.
-- :electron: In 2022, I touched React JS and Node JS and made a Progressive Web App (To-Do App) that also works Offline.
+- :electron: In 2022, I learned React JS and Node JS and made a Progressive Web App (To-Do App) that also works Offline.
 - 🧠 Besides, I also do Competitive Coding to learn new techniques and improve Real-Life Problem Solving Skills.
 - ☁️ I also did the AWS Cloud Practitioner Essentials course and had deployed a website during the virtual internship program under Microsoft Azure using their services (like Chatbot).
 - 📖 I studied Cyber Security for an internship under Cisco Netacad and Palo Alto Networks and worked on Packet Tracer. 
