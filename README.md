@@ -14,7 +14,7 @@
 - 📖 I studied Cyber Security for an internship under Cisco Netacad and Palo Alto Networks and worked on Packet Tracer. 
 - 📝 Apart from that, I also run a [Programming Blog](https://programmingchaska.blogspot.com/) and a [Fitness Blog](https://big-bicep.blogspot.com/).
 - 🎹 I love listening to music and playing musical instruments like Harmonium and Tabla.
-## 🔗 [Download My Resume](https://github.com/TaranjeetSinghKalsi/TaranjeetSinghKalsi/blob/main/Taranjeet%20Kalsi.pdf)
+## 🔗 [View My Resume]([https://github.com/TaranjeetSinghKalsi/TaranjeetSinghKalsi/blob/main/Taranjeet%20Kalsi.pdf](https://taranjeetsinghkalsi.github.io/TaranjeetSinghKalsi/Taranjeet%20Singh%20Kalsi%20Resume.pdf))
  
 ## 🔭 Technology Stack
 **Programming Languages:**
@@ -46,5 +46,24 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/taranjeetkalsi15)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tskalsi15)
 
-## Detailed Insights:
+## Contributed to Open Source Repositories
+
+[![TheAlgorithms/JAVA - GitHub](https://gh-card.dev/repos/TheAlgorithms/JAVA.svg?fullname=)](https://github.com/TheAlgorithms/JAVA)
+[![TaranjeetSinghKalsi/JAVA - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/JAVA.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/JAVA)
+
+## Featured Repositories
+
+[![TaranjeetSinghKalsi/E-Mistri - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/E-Mistri.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/E-Mistri)
+[![TaranjeetSinghKalsi/Find-My-Doctor - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Find-My-Doctor.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Find-My-Doctor)
+[![TaranjeetSinghKalsi/Secret-Code - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Secret-Code.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Secret-Code)
+[![TaranjeetSinghKalsi/Flip-Card - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Flip-Card.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Flip-Card)
+[![TaranjeetSinghKalsi/To-Do-App - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/To-Do-App.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/To-Do-App)
+[![TaranjeetSinghKalsi/Money-Rate - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Money-Rate.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Money-Rate)
+[![TaranjeetSinghKalsi/Poker-Game - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Poker-Game.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Poker-Game)
+[![TaranjeetSinghKalsi/SIH-2022-Quiz - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/SIH-2022-Quiz.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/SIH-2022-Quiz)
+[![TaranjeetSinghKalsi/Base-Converter - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Base-Converter.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Base-Converter)
+[![TaranjeetSinghKalsi/FitBit-Gym - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/FitBit-Gym.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/FitBit-Gym)
+
+## 📝 Detailed Insights
+
 ![Metrics](https://metrics.lecoq.io/taranjeetsinghkalsi?template=classic&languages=1&repositories=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories=false&repositories.featured=Java%2C%20E-Mistri%2C%20To-Do-App%2C%20Find-My-Doctor%2C%20Secret-Code%2C%20Flip-Card%2C%20FitBit-Gym%2C%20Money-Rate%2C%20Poker-Game%2C%20SIH-2022-Quiz%2C%20Base-Converter&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=Java%2C%20E-Mistri%2C%20To-Do-App%2C%20Find-My-Doctor%2C%20Secret-Code%2C%20Flip-Card%2C%20FitBit-Gym%2C%20Money-Rate%2C%20Poker-Game%2C%20SIH-2022-Quiz%2C%20Base-Converter&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
