@@ -14,7 +14,7 @@
 - 📖 Currently learning and working as Software Engineer Intern, at Persistent Systems, on Spring, Spring Boot, and Spring MVC 
 - 📝 Apart from that, I write a [Programming Blog](https://programmingchaska.blogspot.com/) and a [Fitness Blog](https://big-bicep.blogspot.com/).
 - 🎹 I love listening to music and playing musical instruments like Harmonium and Tabla.
-## 🔗 [View My Resume]([https://github.com/TaranjeetSinghKalsi/TaranjeetSinghKalsi/blob/main/Taranjeet%20Kalsi.pdf](https://taranjeetsinghkalsi.github.io/TaranjeetSinghKalsi/Taranjeet%20Singh%20Kalsi%20Resume.pdf))
+## 🔗 [View My Resume](https://taranjeetsinghkalsi.github.io/TaranjeetSinghKalsi/Taranjeet%20Singh%20Kalsi%20Resume.pdf)
  
 ## 🔭 Technology Stack
 **Programming Languages:**
