@@ -47,22 +47,18 @@
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tskalsi15)
 
 ## Contributed to Open Source Repositories
-
-[![TheAlgorithms/JAVA - GitHub](https://gh-card.dev/repos/TheAlgorithms/JAVA.svg?fullname=)](https://github.com/TheAlgorithms/JAVA)
-[![TaranjeetSinghKalsi/JAVA - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/JAVA.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/JAVA)
+|||
+|:---:|:---:|
+|[![TheAlgorithms/JAVA - GitHub](https://gh-card.dev/repos/TheAlgorithms/JAVA.svg?fullname=)](https://github.com/TheAlgorithms/JAVA)|[![TaranjeetSinghKalsi/JAVA - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/JAVA.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/JAVA)|
 
 ## Featured Repositories
-
-[![TaranjeetSinghKalsi/E-Mistri - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/E-Mistri.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/E-Mistri)
-[![TaranjeetSinghKalsi/Find-My-Doctor - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Find-My-Doctor.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Find-My-Doctor)
-[![TaranjeetSinghKalsi/Secret-Code - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Secret-Code.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Secret-Code)
-[![TaranjeetSinghKalsi/Flip-Card - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Flip-Card.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Flip-Card)
-[![TaranjeetSinghKalsi/To-Do-App - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/To-Do-App.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/To-Do-App)
-[![TaranjeetSinghKalsi/Money-Rate - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Money-Rate.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Money-Rate)
-[![TaranjeetSinghKalsi/Poker-Game - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Poker-Game.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Poker-Game)
-[![TaranjeetSinghKalsi/SIH-2022-Quiz - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/SIH-2022-Quiz.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/SIH-2022-Quiz)
-[![TaranjeetSinghKalsi/Base-Converter - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Base-Converter.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Base-Converter)
-[![TaranjeetSinghKalsi/FitBit-Gym - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/FitBit-Gym.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/FitBit-Gym)
+|||
+|:---:|:---:|
+|[![TaranjeetSinghKalsi/E-Mistri - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/E-Mistri.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/E-Mistri)|[![TaranjeetSinghKalsi/Find-My-Doctor - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Find-My-Doctor.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Find-My-Doctor)|
+|[![TaranjeetSinghKalsi/Secret-Code - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Secret-Code.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Secret-Code)|[![TaranjeetSinghKalsi/Flip-Card - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Flip-Card.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Flip-Card)|
+|[![TaranjeetSinghKalsi/To-Do-App - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/To-Do-App.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/To-Do-App)|[![TaranjeetSinghKalsi/Money-Rate - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Money-Rate.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Money-Rate)|
+|[![TaranjeetSinghKalsi/Poker-Game - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Poker-Game.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Poker-Game)|[![TaranjeetSinghKalsi/SIH-2022-Quiz - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/SIH-2022-Quiz.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/SIH-2022-Quiz)|
+|[![TaranjeetSinghKalsi/Base-Converter - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/Base-Converter.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/Base-Converter)|[![TaranjeetSinghKalsi/FitBit-Gym - GitHub](https://gh-card.dev/repos/TaranjeetSinghKalsi/FitBit-Gym.svg?fullname=)](https://github.com/TaranjeetSinghKalsi/FitBit-Gym)|
 
 ## 📝 Detailed Insights
 
