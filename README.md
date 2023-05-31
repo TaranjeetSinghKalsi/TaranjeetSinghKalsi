@@ -11,8 +11,8 @@
 - :electron: In 2022, I learned React JS and Node JS and made a Progressive Web App that can be added to homescreen in mobile devices and also works Offline.
 - 🧠 Besides, I also do Competitive Coding to enhance my Real-Life Problem Solving Skills.
 - ☁️ I am familiar with AWS and Microsoft Azure.
-- 📖 I studied Cyber Security for an internship under Cisco Netacad and Palo Alto Networks and worked on Packet Tracer. 
-- 📝 Apart from that, I also run a [Programming Blog](https://programmingchaska.blogspot.com/) and a [Fitness Blog](https://big-bicep.blogspot.com/).
+- 📖 Currently learning and working as Software Engineer Intern, at Persistent Systems, on Spring, Spring Boot, and Spring MVC 
+- 📝 Apart from that, I write a [Programming Blog](https://programmingchaska.blogspot.com/) and a [Fitness Blog](https://big-bicep.blogspot.com/).
 - 🎹 I love listening to music and playing musical instruments like Harmonium and Tabla.
 ## 🔗 [View My Resume]([https://github.com/TaranjeetSinghKalsi/TaranjeetSinghKalsi/blob/main/Taranjeet%20Kalsi.pdf](https://taranjeetsinghkalsi.github.io/TaranjeetSinghKalsi/Taranjeet%20Singh%20Kalsi%20Resume.pdf))
  
