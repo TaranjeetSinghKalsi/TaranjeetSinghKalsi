@@ -15,7 +15,8 @@
 - 📝 Apart from that, I write a [Programming Blog](https://programmingchaska.blogspot.com/) and a [Fitness Blog](https://big-bicep.blogspot.com/).
 - 🎹 I love listening to music and playing musical instruments like Harmonium and Tabla.
 ## 🔗 [View My Resume](https://taranjeetsinghkalsi.github.io/TaranjeetSinghKalsi/Taranjeet%20Singh%20Kalsi%20Resume.pdf)
- 
+## 🔗 [Visit My Portfolio](https://taranjeetsinghkalsi.github.io)
+
 ## 🔭 Technology Stack
 **Programming Languages:**
 
